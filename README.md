@@ -1,4 +1,4 @@
-## Bachelors Thesis: "Estimation of Non-Stationary, Linear, Time Series"
+# Estimation of Non-Stationary, Linear, Time Series
 
 The contents of this repository are the culmination of twelve months of research undertaken with the supervision of Prof. Bernard Hanzon. I began a position as a Research Assistant to Prof. Hanzon and later that year was invited to continue this project as my Bachelors thesis of the B.Sc Financial Math and Actuarial Science in University College Cork. 
 
